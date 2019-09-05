@@ -1,0 +1,65 @@
+---
+title: "git_00"
+author: "johanna iniguez"
+date: "09/04/19"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+
+Commit at each point as required by the assignment! Finally you can drag/drop the files into Canvas or you will push this repository to you github account, you can send me the URL.
+
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+"SISTER, sister, go to bed!    
+Go and rest your weary head."    
+Thus the prudent brother said.  
+"Do you want a battered hide,    
+Or scratches to your face applied?"  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+The moon was shining sulkily,  
+      Because she thought the sun  
+Had got no business to be there  
+      After the day was done —  
+"It's very rude of him," she said,  
+      "To come and spoil the fun."  
+
+The sea was wet as wet could be,  
+      The sands were dry as dry.  
+You could not see a cloud, because  
+      No cloud was in the sky:  
+No birds were flying overhead —  
+      There were no birds to fly.  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+"If we didn’t have  
+birthdays, you wouldn’t be  
+you. If you’d never been  
+born, well then what would  
+you do? If you’d never been  
+born, well then what would  
+you be? You might be a  
+fish! Or a toad in a tree! You  
+might be a doorknob! Or  
+three baked potatoes! You  
+might be a bag full of hard  
+green tomatoes."    
+
